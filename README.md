@@ -1,7 +1,7 @@
 # Smart-Ventilation-System
 Smart Ventilation System is a embeded system which uses NodeMCU ,Dallas Temprature sensor and MQ2 gas sensor
 
-![Circuit](/ArduinoCircuit.jpg)
+<img src="/ArduinoCircuit.jpg" alt="Circuit Image" width="600" height="300" >
 
 ## Features
 ### Integrated Sensors
@@ -34,4 +34,4 @@ Provides an intuitive interface for users to interact with the system, facilitat
 ### Open-source and Customizable
 Built using Arduino and NodeMCU platforms, the project is open-source and highly customizable, allowing for modifications and extensions to suit various applications and environments.
 
-![Cloud Data](/Screenshot%202024-04-11%20205720.png)
+<img src="/Screenshot%202024-04-11%20205720.png" alt="Cloud Data" width="600" height="300" >
