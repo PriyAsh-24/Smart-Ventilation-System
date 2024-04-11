@@ -6,6 +6,7 @@ Smart Ventilation System is a embeded system which uses NodeMCU ,Dallas Tempratu
 ## Features
 ### Integrated Sensors
 Utilizes a Dallas temperature sensor and an MQ2 gas sensor for comprehensive environmental monitoring. The temperature sensor ensures optimal ventilation based on ambient temperature, while the gas sensor detects the presence of harmful gases in the surroundings.
+
 <img src="/Images/IMG_20240411_210255.jpg" alt="Sensor Image" width="200" height="200" >
 <img src="/Images/IMG_20240411_210311.jpg" alt="Sensor Image" width="200" height="200" >
 
@@ -25,7 +26,7 @@ Activates a buzzer alarm upon detecting the presence of unwanted gases, alerting
 ### Data Transmission to Cloud
 Sends collected sensor data (temperature, gas levels, motor speed, alarm status) to the ThingSpeak cloud platform for remote monitoring and analysis.
 
-<img src="/Images/Screenshot%202024-04-11%20205720.png" alt="Cloud Data" width="600" height="300" >
+<img src="/Screenshot%202024-04-11%20205720.png" alt="Cloud Data" width="600" height="300" >
 
 ### Remote Access and Control
 Allows users to remotely access the collected data via the ThingSpeak platform, providing insights into environmental conditions and system performance.
