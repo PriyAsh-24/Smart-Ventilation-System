@@ -33,3 +33,5 @@ Provides an intuitive interface for users to interact with the system, facilitat
 
 ### Open-source and Customizable
 Built using Arduino and NodeMCU platforms, the project is open-source and highly customizable, allowing for modifications and extensions to suit various applications and environments.
+
+![Cloud Data](/Screenshot%202024-04-11%20205720.png)
